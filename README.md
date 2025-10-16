@@ -1,4 +1,4 @@
-# PI-FINAL-M1-DEPT02
+# PI-FINAL-M1-DEPT02.
 
 # Proyecto Integrador: Análisis de Ventas SUPERMARKET
 
